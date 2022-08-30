@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cc518e09fa063467b8a4e9bfca27864a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - linearCharacterControllerObjectHelper: {fileID: 282387172205051218, guid: 05bba240fb8594c0d94df7b5a03f412f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

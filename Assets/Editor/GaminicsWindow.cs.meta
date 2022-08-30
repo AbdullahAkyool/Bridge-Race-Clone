@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7f95a3f13f48642d6a34d6864173f08e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - _gaminicsLogo: {fileID: 2800000, guid: 75bbe8feaaa604ffca5df2b90c5f5da5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
