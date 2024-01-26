@@ -79,7 +79,7 @@ public class AIController : MonoBehaviour
         else
         {
             if(hasTarget){return;}
-            searchZone = Physics.OverlapSphere(transform.position,10f,katman);
+            searchZone = Physics.OverlapSphere(transform.position,20f,katman);
             Collider cubeCollider = searchZone[Random.Range(0, searchZone.Length)];
             targetCube = cubeCollider.gameObject.GetComponent<Cube>();
             cubePos = targetCube.transform.position;
@@ -139,7 +139,7 @@ public class AIController : MonoBehaviour
     {
         if (other.CompareTag("Finish"))
         {
-            stackmanager.DropBlock(); //trigger nesnesi Finish objesi ise DropBlock metodu ile stacklenen küpler boþaltýlýyor
+            stackmanager.DropBlock(); //trigger nesnesi Finish objesi ise DropBlock metodu ile stacklenen kï¿½pler boï¿½altï¿½lï¿½yor
         }
 
     }
